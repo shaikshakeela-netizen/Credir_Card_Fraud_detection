@@ -17,6 +17,8 @@
 
 The **Credit Card Fraud Detection System** is an interactive Machine Learning web application developed to identify fraudulent credit card transactions using classification algorithms and imbalance handling techniques.
 
+LIVE DEMO: https://credit-card-fraud-detection-1-35xu.onrender.com
+
 This project combines:
 
 - 📊 Data Analysis
